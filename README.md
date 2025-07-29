@@ -1,4 +1,4 @@
-# 💓 Heart Attack Analysis – SQL Portfolio Project
+# Heart Attack Analysis – SQL Project
 
 This SQL-based data analytics project explores patient heart health data to uncover trends and risk factors associated with heart attacks. The project uses pure SQL to analyze key metrics such as blood pressure, age, blood sugar, troponin, CK-MB, and gender.
 
